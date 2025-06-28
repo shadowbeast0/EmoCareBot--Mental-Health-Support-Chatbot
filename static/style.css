@@ -547,3 +547,18 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
+
+.hero-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  background: transparent; 
+}
+
+.hero-logo__img {
+  max-width: 250px;      
+  width: 80%;
+  height: auto;
+  display: block;
+}

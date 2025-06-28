@@ -3,26 +3,40 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Chatbot</title>
+  <title>EmoCareBot</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
 </head>
 <body>
+
+  <div class="hero-logo">
+    <img
+      src="{{ url_for('static', filename='brain-heart-logo.png') }}"
+      alt="Cartoon brain hugging a heart – site logo"
+      class="hero-logo__img"
+    />
+  </div>
+
   <button id="chatbot_toggle" aria-label="Toggle Chatbot">&#128172;</button>
 
   <div class="main-card collapsed" id="chatbot">
     <div class="main-title">
       <div>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
         </svg>
       </div>
-      <span>Chatbot</span>
+      <span>EmoCareBot</span>
     </div>
+
     <div class="chat-area" id="chat_area"></div>
+
     <div class="input-div">
-      <input type="text" id="input_message" class="input-message" placeholder="Type your message..." autocomplete="off" />
+      <input type="text" id="input_message" class="input-message"
+             placeholder="Type your message..." autocomplete="off" />
       <button class="input-send" id="send_button" aria-label="Send Message">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <line x1="22" y1="2" x2="11" y2="13"></line>
           <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
         </svg>
