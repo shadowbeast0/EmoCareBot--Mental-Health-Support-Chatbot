@@ -51,7 +51,7 @@ The training dataset contains a curated set of user phrases and response mapping
 ---
 
 ## How to Run
-
+-- Requires Python
 1. **Clone the repo**
 2. **Type** ```pip install -r requirements.txt``` **in terminal**
 3. **Type** ```python app.py``` **in terminal and follow the steps to the website**
