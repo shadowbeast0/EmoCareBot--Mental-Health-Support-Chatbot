@@ -1,0 +1,104 @@
+{
+  "patterns": {
+    "relationship-issues": [
+      "my girlfriend keeps ignoring me",
+      "my boyfriend doesn't text back",
+      "my girlfriend broke up with me",
+      "my boyfriend left me",
+      "my husband and I keep fighting",
+      "my wife doesn't listen to me",
+      "I got dumped",
+      "we broke up last week",
+      "my crush doesn't like me back",
+      "I think my partner is cheating",
+      "my relationship is falling apart",
+      "I miss my ex"
+    ],
+    "i am stressed out": [
+      "the exam stuff is a lot",
+      "exams are stressing me out",
+      "I have too many deadlines",
+      "work is overwhelming",
+      "I'm anxious about my exams",
+      "college is too much right now",
+      "my job is so stressful",
+      "I can't keep up with my assignments",
+      "there's too much on my plate",
+      "I'm burnt out",
+      "placements are stressing me",
+      "my boss keeps piling on work"
+    ],
+    "i am sad": [
+      "I feel really low today",
+      "I've been feeling down",
+      "I feel empty",
+      "nothing makes me happy anymore",
+      "I'm lonely",
+      "I feel so alone",
+      "I've been crying a lot",
+      "I feel blue",
+      "my heart feels heavy",
+      "I'm having a bad day"
+    ],
+    "i want a break": [
+      "I just need a break",
+      "I need a vacation",
+      "I'm exhausted",
+      "I want to rest for a while",
+      "I need some time off",
+      "I'm so tired of studying",
+      "I need a day off from everything"
+    ],
+    "i will never succeed in life": [
+      "I failed my exam",
+      "I'll never get a good job",
+      "I keep failing at everything",
+      "I'm not good enough for anything",
+      "I didn't get the placement",
+      "I got rejected again"
+    ],
+    "i let everyone down": [
+      "my parents are disappointed in me",
+      "I failed my exams and my parents are disappointed",
+      "I disappointed my family",
+      "my parents expected more",
+      "I feel like a burden to my family"
+    ],
+    "i am a victim of bullying": [
+      "people at school pick on me",
+      "my classmates mock me",
+      "someone keeps harassing me online",
+      "they call me names every day",
+      "I'm being cyberbullied",
+      "my coworkers gang up on me"
+    ],
+    "i wish i was better than them": [
+      "everyone's better than me at everything",
+      "my friends are all more successful",
+      "I always compare myself to others",
+      "why is everyone else so talented"
+    ],
+    "i think i'm losing my mind": [
+      "my thoughts won't stop",
+      "I can't think straight",
+      "my head is a mess",
+      "it's 3am and my thoughts won't stop",
+      "I'm overthinking everything",
+      "I feel like I'm going insane"
+    ],
+    "greeting": [
+      "hello there",
+      "hii",
+      "heyy",
+      "good morning",
+      "hi bot"
+    ],
+    "thanks": [
+      "thank u",
+      "thanks a lot",
+      "thx",
+      "ty",
+      "that helped"
+    ]
+  }
+}

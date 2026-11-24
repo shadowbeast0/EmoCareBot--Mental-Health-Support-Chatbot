@@ -1,0 +1,12 @@
+{
+  "name": "emocarebot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/parity.test.mjs tests/semantic.test.mjs",
+    "embed": "node training/embed.mjs"
+  },
+  "devDependencies": {
+    "@huggingface/transformers": "4.3.1"
+  }
+}

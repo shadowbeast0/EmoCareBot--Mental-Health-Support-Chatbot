@@ -1,0 +1,4790 @@
+[
+{
+"text": "Hi",
+"tokens": [
+"hi"
+],
+"top": "greeting",
+"p": 0.982
+},
+{
+"text": "Hey",
+"tokens": [
+"hey"
+],
+"top": "greeting",
+"p": 0.97812
+},
+{
+"text": "Is anyone there?",
+"tokens": [
+"is",
+"anyone",
+"there"
+],
+"top": "greeting",
+"p": 0.99668
+},
+{
+"text": "Hi there",
+"tokens": [
+"hi",
+"there"
+],
+"top": "greeting",
+"p": 0.99853
+},
+{
+"text": "Hello",
+"tokens": [
+"hello"
+],
+"top": "greeting",
+"p": 0.98919
+},
+{
+"text": "Hey there",
+"tokens": [
+"hey",
+"there"
+],
+"top": "greeting",
+"p": 0.99815
+},
+{
+"text": "Howdy",
+"tokens": [
+"howdy"
+],
+"top": "greeting",
+"p": 0.99162
+},
+{
+"text": "Hola",
+"tokens": [
+"hola"
+],
+"top": "greeting",
+"p": 0.9901
+},
+{
+"text": "Bonjour",
+"tokens": [
+"bonjour"
+],
+"top": "greeting",
+"p": 0.99076
+},
+{
+"text": "Hay",
+"tokens": [
+"hay"
+],
+"top": "greeting",
+"p": 0.98957
+},
+{
+"text": "Sasa",
+"tokens": [
+"sasa"
+],
+"top": "greeting",
+"p": 0.9907
+},
+{
+"text": "Good Evening",
+"tokens": [
+"good",
+"evening"
+],
+"top": "greeting",
+"p": 0.99918
+},
+{
+"text": "Good afternoon",
+"tokens": [
+"good",
+"afternoon"
+],
+"top": "greeting",
+"p": 0.99829
+},
+{
+"text": "What's up?",
+"tokens": [
+"what",
+"up"
+],
+"top": "greeting",
+"p": 0.98396
+},
+{
+"text": "Hey bot",
+"tokens": [
+"hey",
+"bot"
+],
+"top": "greeting",
+"p": 0.99863
+},
+{
+"text": "Good day",
+"tokens": [
+"good",
+"day"
+],
+"top": "greeting",
+"p": 0.99256
+},
+{
+"text": "Yo",
+"tokens": [
+"yo"
+],
+"top": "greeting",
+"p": 0.98553
+},
+{
+"text": "Hi, how are you?",
+"tokens": [
+"hi",
+"how",
+"are",
+"you"
+],
+"top": "greeting",
+"p": 0.99992
+},
+{
+"text": "What's going on?",
+"tokens": [
+"what",
+"going",
+"on"
+],
+"top": "greeting",
+"p": 0.99818
+},
+{
+"text": "How's it going?",
+"tokens": [
+"how",
+"it",
+"going"
+],
+"top": "greeting",
+"p": 0.99719
+},
+{
+"text": "What's happening?",
+"tokens": [
+"what",
+"happening"
+],
+"top": "greeting",
+"p": 0.99682
+},
+{
+"text": "Good to see you",
+"tokens": [
+"good",
+"to",
+"see",
+"you"
+],
+"top": "greeting",
+"p": 0.99934
+},
+{
+"text": "What's new?",
+"tokens": [
+"what",
+"new"
+],
+"top": "greeting",
+"p": 0.99732
+},
+{
+"text": "How are you doing?",
+"tokens": [
+"how",
+"are",
+"you",
+"doing"
+],
+"top": "greeting",
+"p": 0.99959
+},
+{
+"text": "How's your day?",
+"tokens": [
+"how",
+"your",
+"day"
+],
+"top": "greeting",
+"p": 0.99864
+},
+{
+"text": "How are things?",
+"tokens": [
+"how",
+"are",
+"thing"
+],
+"top": "greeting",
+"p": 0.99545
+},
+{
+"text": "Hey, how are you?",
+"tokens": [
+"hey",
+"how",
+"are",
+"you"
+],
+"top": "greeting",
+"p": 0.99991
+},
+{
+"text": "Hi, what's up?",
+"tokens": [
+"hi",
+"what",
+"up"
+],
+"top": "greeting",
+"p": 0.99971
+},
+{
+"text": "How’s life?",
+"tokens": [
+"how",
+"life"
+],
+"top": "greeting",
+"p": 0.99521
+},
+{
+"text": "What’s up with you?",
+"tokens": [
+"what",
+"up",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99846
+},
+{
+"text": "Hey, good to see you",
+"tokens": [
+"hey",
+"good",
+"to",
+"see",
+"you"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "Hi, how’s it going?",
+"tokens": [
+"hi",
+"how",
+"it",
+"going"
+],
+"top": "greeting",
+"p": 0.99994
+},
+{
+"text": "Hello, how are you?",
+"tokens": [
+"hello",
+"how",
+"are",
+"you"
+],
+"top": "greeting",
+"p": 0.99996
+},
+{
+"text": "Hey, how’s everything?",
+"tokens": [
+"hey",
+"how",
+"everything"
+],
+"top": "greeting",
+"p": 0.99929
+},
+{
+"text": "What's good?",
+"tokens": [
+"what",
+"good"
+],
+"top": "greeting",
+"p": 0.99542
+},
+{
+"text": "What’s going on with you?",
+"tokens": [
+"what",
+"going",
+"on",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99987
+},
+{
+"text": "Good morning, how are you?",
+"tokens": [
+"good",
+"morning",
+"how",
+"are",
+"you"
+],
+"top": "greeting",
+"p": 1.0
+},
+{
+"text": "Greetings",
+"tokens": [
+"greeting"
+],
+"top": "greeting",
+"p": 0.99101
+},
+{
+"text": "Hi there, how’s everything?",
+"tokens": [
+"hi",
+"there",
+"how",
+"everything"
+],
+"top": "greeting",
+"p": 0.99995
+},
+{
+"text": "Hey, what’s happening?",
+"tokens": [
+"hey",
+"what",
+"happening"
+],
+"top": "greeting",
+"p": 0.99988
+},
+{
+"text": "How are you feeling?",
+"tokens": [
+"how",
+"are",
+"you",
+"feeling"
+],
+"top": "greeting",
+"p": 0.99857
+},
+{
+"text": "Hey there, how’s life?",
+"tokens": [
+"hey",
+"there",
+"how",
+"life"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "Yo, how’s it going?",
+"tokens": [
+"yo",
+"how",
+"it",
+"going"
+],
+"top": "greeting",
+"p": 0.99994
+},
+{
+"text": "Sup?",
+"tokens": [
+"sup"
+],
+"top": "greeting",
+"p": 0.99029
+},
+{
+"text": "Hey, how’s your day going?",
+"tokens": [
+"hey",
+"how",
+"your",
+"day",
+"going"
+],
+"top": "greeting",
+"p": 1.0
+},
+{
+"text": "Morning",
+"tokens": [
+"morning"
+],
+"top": "greeting",
+"p": 0.98828
+},
+{
+"text": "Evening",
+"tokens": [
+"evening"
+],
+"top": "greeting",
+"p": 0.98966
+},
+{
+"text": "Good afternoon",
+"tokens": [
+"good",
+"afternoon"
+],
+"top": "greeting",
+"p": 0.99829
+},
+{
+"text": "What’s going on today?",
+"tokens": [
+"what",
+"going",
+"on",
+"today"
+],
+"top": "greeting",
+"p": 0.99957
+},
+{
+"text": "How’s your mood?",
+"tokens": [
+"how",
+"your",
+"mood"
+],
+"top": "greeting",
+"p": 0.99918
+},
+{
+"text": "Hey, how have you been?",
+"tokens": [
+"hey",
+"how",
+"have",
+"you",
+"been"
+],
+"top": "greeting",
+"p": 0.99994
+},
+{
+"text": "Hello, my friend",
+"tokens": [
+"hello",
+"my",
+"friend"
+],
+"top": "greeting",
+"p": 0.99639
+},
+{
+"text": "Hey there, how’ve you been?",
+"tokens": [
+"hey",
+"there",
+"how",
+"have",
+"you",
+"been"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "Good to see you today",
+"tokens": [
+"good",
+"to",
+"see",
+"you",
+"today"
+],
+"top": "greeting",
+"p": 0.99988
+},
+{
+"text": "Hi, it’s been a while!",
+"tokens": [
+"hi",
+"it",
+"been",
+"a",
+"while"
+],
+"top": "greeting",
+"p": 0.99809
+},
+{
+"text": "How’s life treating you?",
+"tokens": [
+"how",
+"life",
+"treating",
+"you"
+],
+"top": "greeting",
+"p": 0.99973
+},
+{
+"text": "Hey, how’s the weather?",
+"tokens": [
+"hey",
+"how",
+"the",
+"weather"
+],
+"top": "greeting",
+"p": 0.99989
+},
+{
+"text": "What’s the vibe today?",
+"tokens": [
+"what",
+"the",
+"vibe",
+"today"
+],
+"top": "greeting",
+"p": 0.99881
+},
+{
+"text": "Hey there, what’s up?",
+"tokens": [
+"hey",
+"there",
+"what",
+"up"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "Hello, what’s going on?",
+"tokens": [
+"hello",
+"what",
+"going",
+"on"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "Good to see you again",
+"tokens": [
+"good",
+"to",
+"see",
+"you",
+"again"
+],
+"top": "greeting",
+"p": 0.99947
+},
+{
+"text": "Hey, how’s your evening?",
+"tokens": [
+"hey",
+"how",
+"your",
+"evening"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "How’s everything on your end?",
+"tokens": [
+"how",
+"everything",
+"on",
+"your",
+"end"
+],
+"top": "greeting",
+"p": 0.99914
+},
+{
+"text": "Yo, what’s happening?",
+"tokens": [
+"yo",
+"what",
+"happening"
+],
+"top": "greeting",
+"p": 0.9999
+},
+{
+"text": "What’s the latest?",
+"tokens": [
+"what",
+"the",
+"latest"
+],
+"top": "greeting",
+"p": 0.99732
+},
+{
+"text": "Hi, what’s new with you?",
+"tokens": [
+"hi",
+"what",
+"new",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "How’s work going?",
+"tokens": [
+"how",
+"work",
+"going"
+],
+"top": "greeting",
+"p": 0.99531
+},
+{
+"text": "Hey, how’s your morning?",
+"tokens": [
+"hey",
+"how",
+"your",
+"morning"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "What’s up with your day?",
+"tokens": [
+"what",
+"up",
+"with",
+"your",
+"day"
+],
+"top": "greeting",
+"p": 0.99991
+},
+{
+"text": "What’s up with life?",
+"tokens": [
+"what",
+"up",
+"with",
+"life"
+],
+"top": "greeting",
+"p": 0.99926
+},
+{
+"text": "Yo, any news?",
+"tokens": [
+"yo",
+"any",
+"new"
+],
+"top": "greeting",
+"p": 0.99985
+},
+{
+"text": "Hey, how’s it going today?",
+"tokens": [
+"hey",
+"how",
+"it",
+"going",
+"today"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "What’s the latest with you?",
+"tokens": [
+"what",
+"the",
+"latest",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99967
+},
+{
+"text": "Hi, feeling good?",
+"tokens": [
+"hi",
+"feeling",
+"good"
+],
+"top": "greeting",
+"p": 0.99954
+},
+{
+"text": "Hey, what’s happening around here?",
+"tokens": [
+"hey",
+"what",
+"happening",
+"around",
+"here"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "Hello, anything interesting happening?",
+"tokens": [
+"hello",
+"anything",
+"interesting",
+"happening"
+],
+"top": "greeting",
+"p": 0.99975
+},
+{
+"text": "Hi, any exciting news?",
+"tokens": [
+"hi",
+"any",
+"exciting",
+"new"
+],
+"top": "greeting",
+"p": 0.99996
+},
+{
+"text": "How’s everything in your world?",
+"tokens": [
+"how",
+"everything",
+"in",
+"your",
+"world"
+],
+"top": "greeting",
+"p": 0.99946
+},
+{
+"text": "Good to hear from you!",
+"tokens": [
+"good",
+"to",
+"hear",
+"from",
+"you"
+],
+"top": "greeting",
+"p": 0.99883
+},
+{
+"text": "Hey, how are you today?",
+"tokens": [
+"hey",
+"how",
+"are",
+"you",
+"today"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "Hi, how’s your week?",
+"tokens": [
+"hi",
+"how",
+"your",
+"week"
+],
+"top": "greeting",
+"p": 0.99986
+},
+{
+"text": "How’s your mood today?",
+"tokens": [
+"how",
+"your",
+"mood",
+"today"
+],
+"top": "greeting",
+"p": 0.99983
+},
+{
+"text": "Good to see you again, how’s everything?",
+"tokens": [
+"good",
+"to",
+"see",
+"you",
+"again",
+"how",
+"everything"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "Hi there, what’s new today?",
+"tokens": [
+"hi",
+"there",
+"what",
+"new",
+"today"
+],
+"top": "greeting",
+"p": 1.0
+},
+{
+"text": "How’s your day treating you?",
+"tokens": [
+"how",
+"your",
+"day",
+"treating",
+"you"
+],
+"top": "greeting",
+"p": 0.99989
+},
+{
+"text": "Hey, feeling alright?",
+"tokens": [
+"hey",
+"feeling",
+"alright"
+],
+"top": "greeting",
+"p": 0.99905
+},
+{
+"text": "Hello, how’s your weekend going?",
+"tokens": [
+"hello",
+"how",
+"your",
+"weekend",
+"going"
+],
+"top": "greeting",
+"p": 0.99999
+},
+{
+"text": "How’s the day going for you?",
+"tokens": [
+"how",
+"the",
+"day",
+"going",
+"for",
+"you"
+],
+"top": "greeting",
+"p": 0.99817
+},
+{
+"text": "Hey, what’s the good word?",
+"tokens": [
+"hey",
+"what",
+"the",
+"good",
+"word"
+],
+"top": "greeting",
+"p": 0.99995
+},
+{
+"text": "Hello, what’s up with you?",
+"tokens": [
+"hello",
+"what",
+"up",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "How have you been doing?",
+"tokens": [
+"how",
+"have",
+"you",
+"been",
+"doing"
+],
+"top": "greeting",
+"p": 0.99977
+},
+{
+"text": "Hey, good to chat with you",
+"tokens": [
+"hey",
+"good",
+"to",
+"chat",
+"with",
+"you"
+],
+"top": "greeting",
+"p": 0.99997
+},
+{
+"text": "What’s going on in your world?",
+"tokens": [
+"what",
+"going",
+"on",
+"in",
+"your",
+"world"
+],
+"top": "greeting",
+"p": 0.99998
+},
+{
+"text": "hello there",
+"tokens": [
+"hello",
+"there"
+],
+"top": "greeting",
+"p": 0.99913
+},
+{
+"text": "hii",
+"tokens": [
+"hii"
+],
+"top": "greeting",
+"p": 0.99152
+},
+{
+"text": "heyy",
+"tokens": [
+"heyy"
+],
+"top": "greeting",
+"p": 0.99093
+},
+{
+"text": "good morning",
+"tokens": [
+"good",
+"morning"
+],
+"top": "greeting",
+"p": 0.99912
+},
+{
+"text": "hi bot",
+"tokens": [
+"hi",
+"bot"
+],
+"top": "greeting",
+"p": 0.99881
+},
+{
+"text": "Thanks",
+"tokens": [
+"thanks"
+],
+"top": "thanks",
+"p": 0.96504
+},
+{
+"text": "Thank you",
+"tokens": [
+"thank",
+"you"
+],
+"top": "thanks",
+"p": 0.98227
+},
+{
+"text": "That's helpful",
+"tokens": [
+"that",
+"helpful"
+],
+"top": "thanks",
+"p": 0.99689
+},
+{
+"text": "Thanks for the help",
+"tokens": [
+"thanks",
+"for",
+"the",
+"help"
+],
+"top": "thanks",
+"p": 0.99882
+},
+{
+"text": "Than you very much",
+"tokens": [
+"than",
+"you",
+"very",
+"much"
+],
+"top": "thanks",
+"p": 0.99711
+},
+{
+"text": "Thank you so much",
+"tokens": [
+"thank",
+"you",
+"so",
+"much"
+],
+"top": "thanks",
+"p": 0.99943
+},
+{
+"text": "I really appreciate it",
+"tokens": [
+"i",
+"really",
+"appreciate",
+"it"
+],
+"top": "thanks",
+"p": 0.9995
+},
+{
+"text": "Thanks for everything",
+"tokens": [
+"thanks",
+"for",
+"everything"
+],
+"top": "thanks",
+"p": 0.99349
+},
+{
+"text": "I’m so grateful",
+"tokens": [
+"i",
+"am",
+"so",
+"grateful"
+],
+"top": "thanks",
+"p": 0.97917
+},
+{
+"text": "Thank you for your help",
+"tokens": [
+"thank",
+"you",
+"for",
+"your",
+"help"
+],
+"top": "thanks",
+"p": 0.99447
+},
+{
+"text": "I can’t thank you enough",
+"tokens": [
+"i",
+"can",
+"not",
+"thank",
+"you",
+"enough"
+],
+"top": "thanks",
+"p": 0.99562
+},
+{
+"text": "I’m thankful for you",
+"tokens": [
+"i",
+"am",
+"thankful",
+"for",
+"you"
+],
+"top": "thanks",
+"p": 0.99485
+},
+{
+"text": "I appreciate everything you’ve done",
+"tokens": [
+"i",
+"appreciate",
+"everything",
+"you",
+"have",
+"done"
+],
+"top": "thanks",
+"p": 0.99809
+},
+{
+"text": "Thank you from the bottom of my heart",
+"tokens": [
+"thank",
+"you",
+"from",
+"the",
+"bottom",
+"of",
+"my",
+"heart"
+],
+"top": "thanks",
+"p": 0.99975
+},
+{
+"text": "I’m really thankful",
+"tokens": [
+"i",
+"am",
+"really",
+"thankful"
+],
+"top": "thanks",
+"p": 0.99601
+},
+{
+"text": "Thanks for being there for me",
+"tokens": [
+"thanks",
+"for",
+"being",
+"there",
+"for",
+"me"
+],
+"top": "thanks",
+"p": 0.99698
+},
+{
+"text": "I appreciate you so much",
+"tokens": [
+"i",
+"appreciate",
+"you",
+"so",
+"much"
+],
+"top": "thanks",
+"p": 0.99988
+},
+{
+"text": "I can’t express how grateful I am",
+"tokens": [
+"i",
+"can",
+"not",
+"express",
+"how",
+"grateful",
+"i",
+"am"
+],
+"top": "thanks",
+"p": 0.99789
+},
+{
+"text": "I feel so blessed",
+"tokens": [
+"i",
+"feel",
+"so",
+"blessed"
+],
+"top": "thanks",
+"p": 0.99579
+},
+{
+"text": "I’m thankful for your support",
+"tokens": [
+"i",
+"am",
+"thankful",
+"for",
+"your",
+"support"
+],
+"top": "thanks",
+"p": 0.98374
+},
+{
+"text": "I’m so grateful for everything",
+"tokens": [
+"i",
+"am",
+"so",
+"grateful",
+"for",
+"everything"
+],
+"top": "thanks",
+"p": 0.99498
+},
+{
+"text": "Thank you for always being there",
+"tokens": [
+"thank",
+"you",
+"for",
+"always",
+"being",
+"there"
+],
+"top": "thanks",
+"p": 0.99916
+},
+{
+"text": "I truly appreciate you",
+"tokens": [
+"i",
+"truly",
+"appreciate",
+"you"
+],
+"top": "thanks",
+"p": 0.97627
+},
+{
+"text": "Thank you for your kindness",
+"tokens": [
+"thank",
+"you",
+"for",
+"your",
+"kindness"
+],
+"top": "thanks",
+"p": 0.99911
+},
+{
+"text": "I’m really thankful for this opportunity",
+"tokens": [
+"i",
+"am",
+"really",
+"thankful",
+"for",
+"this",
+"opportunity"
+],
+"top": "thanks",
+"p": 0.99948
+},
+{
+"text": "Thank you for listening",
+"tokens": [
+"thank",
+"you",
+"for",
+"listening"
+],
+"top": "thanks",
+"p": 0.99901
+},
+{
+"text": "I’m grateful for your help",
+"tokens": [
+"i",
+"am",
+"grateful",
+"for",
+"your",
+"help"
+],
+"top": "thanks",
+"p": 0.96991
+},
+{
+"text": "Thanks for your understanding",
+"tokens": [
+"thanks",
+"for",
+"your",
+"understanding"
+],
+"top": "thanks",
+"p": 0.99901
+},
+{
+"text": "I’m so thankful for your advice",
+"tokens": [
+"i",
+"am",
+"so",
+"thankful",
+"for",
+"your",
+"advice"
+],
+"top": "thanks",
+"p": 0.99985
+},
+{
+"text": "I appreciate your time",
+"tokens": [
+"i",
+"appreciate",
+"your",
+"time"
+],
+"top": "thanks",
+"p": 0.9984
+},
+{
+"text": "Thanks for being such a great friend",
+"tokens": [
+"thanks",
+"for",
+"being",
+"such",
+"a",
+"great",
+"friend"
+],
+"top": "thanks",
+"p": 0.99945
+},
+{
+"text": "I’m grateful for your generosity",
+"tokens": [
+"i",
+"am",
+"grateful",
+"for",
+"your",
+"generosity"
+],
+"top": "thanks",
+"p": 0.99811
+},
+{
+"text": "I can’t thank you enough for this",
+"tokens": [
+"i",
+"can",
+"not",
+"thank",
+"you",
+"enough",
+"for",
+"this"
+],
+"top": "thanks",
+"p": 0.99873
+},
+{
+"text": "Thank you for all the love",
+"tokens": [
+"thank",
+"you",
+"for",
+"all",
+"the",
+"love"
+],
+"top": "thanks",
+"p": 0.99018
+},
+{
+"text": "I appreciate your efforts",
+"tokens": [
+"i",
+"appreciate",
+"your",
+"effort"
+],
+"top": "thanks",
+"p": 0.99508
+},
+{
+"text": "I feel lucky to have you",
+"tokens": [
+"i",
+"feel",
+"lucky",
+"to",
+"have",
+"you"
+],
+"top": "thanks",
+"p": 0.99664
+},
+{
+"text": "Thanks for making my day better",
+"tokens": [
+"thanks",
+"for",
+"making",
+"my",
+"day",
+"better"
+],
+"top": "thanks",
+"p": 0.99852
+},
+{
+"text": "I’m grateful for every little thing",
+"tokens": [
+"i",
+"am",
+"grateful",
+"for",
+"every",
+"little",
+"thing"
+],
+"top": "thanks",
+"p": 0.9987
+},
+{
+"text": "Thank you for your patience",
+"tokens": [
+"thank",
+"you",
+"for",
+"your",
+"patience"
+],
+"top": "thanks",
+"p": 0.99907
+},
+{
+"text": "I’m so thankful for your presence",
+"tokens": [
+"i",
+"am",
+"so",
+"thankful",
+"for",
+"your",
+"presence"
+],
+"top": "thanks",
+"p": 0.99982
+},
+{
+"text": "I really appreciate your guidance",
+"tokens": [
+"i",
+"really",
+"appreciate",
+"your",
+"guidance"
+],
+"top": "thanks",
+"p": 0.99996
+},
+{
+"text": "Thanks for being so thoughtful",
+"tokens": [
+"thanks",
+"for",
+"being",
+"so",
+"thoughtful"
+],
+"top": "thanks",
+"p": 0.99978
+},
+{
+"text": "I’m thankful for your encouragement",
+"tokens": [
+"i",
+"am",
+"thankful",
+"for",
+"your",
+"encouragement"
+],
+"top": "thanks",
+"p": 0.98358
+},
+{
+"text": "Thank you for everything you do",
+"tokens": [
+"thank",
+"you",
+"for",
+"everything",
+"you",
+"do"
+],
+"top": "thanks",
+"p": 0.9973
+},
+{
+"text": "I’m so appreciative of your kindness",
+"tokens": [
+"i",
+"am",
+"so",
+"appreciative",
+"of",
+"your",
+"kindness"
+],
+"top": "thanks",
+"p": 0.99947
+},
+{
+"text": "Thank you for all your hard work",
+"tokens": [
+"thank",
+"you",
+"for",
+"all",
+"your",
+"hard",
+"work"
+],
+"top": "thanks",
+"p": 0.99875
+},
+{
+"text": "I’m thankful for your care",
+"tokens": [
+"i",
+"am",
+"thankful",
+"for",
+"your",
+"care"
+],
+"top": "thanks",
+"p": 0.99935
+},
+{
+"text": "Thanks for always being there for me",
+"tokens": [
+"thanks",
+"for",
+"always",
+"being",
+"there",
+"for",
+"me"
+],
+"top": "thanks",
+"p": 0.99903
+},
+{
+"text": "I can’t tell you how much this means to me",
+"tokens": [
+"i",
+"can",
+"not",
+"tell",
+"you",
+"how",
+"much",
+"this",
+"mean",
+"to",
+"me"
+],
+"top": "thanks",
+"p": 0.999
+},
+{
+"text": "I’m so thankful for your friendship",
+"tokens": [
+"i",
+"am",
+"so",
+"thankful",
+"for",
+"your",
+"friendship"
+],
+"top": "thanks",
+"p": 0.98659
+},
+{
+"text": "I appreciate you more than words can say",
+"tokens": [
+"i",
+"appreciate",
+"you",
+"more",
+"than",
+"word",
+"can",
+"say"
+],
+"top": "thanks",
+"p": 0.99972
+},
+{
+"text": "thank u",
+"tokens": [
+"thank",
+"u"
+],
+"top": "thanks",
+"p": 0.9971
+},
+{
+"text": "thanks a lot",
+"tokens": [
+"thanks",
+"a",
+"lot"
+],
+"top": "thanks",
+"p": 0.9959
+},
+{
+"text": "thx",
+"tokens": [
+"thx"
+],
+"top": "thanks",
+"p": 0.98553
+},
+{
+"text": "ty",
+"tokens": [
+"ty"
+],
+"top": "thanks",
+"p": 0.98377
+},
+{
+"text": "that helped",
+"tokens": [
+"that",
+"helped"
+],
+"top": "thanks",
+"p": 0.99746
+},
+{
+"text": "I feel like my partner ignores me",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"ignore",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.9989
+},
+{
+"text": "I feel like I’m just an option to my partner",
+"tokens": [
+"i",
+"feel",
+"like",
+"i",
+"am",
+"just",
+"an",
+"option",
+"to",
+"my",
+"partner"
+],
+"top": "relationship-issues",
+"p": 0.99936
+},
+{
+"text": "I feel like my partner compares me to others",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"compare",
+"me",
+"to",
+"other"
+],
+"top": "relationship-issues",
+"p": 0.99711
+},
+{
+"text": "I feel like I can’t talk to my partner about my problems",
+"tokens": [
+"i",
+"feel",
+"like",
+"i",
+"can",
+"not",
+"talk",
+"to",
+"my",
+"partner",
+"about",
+"my",
+"problem"
+],
+"top": "relationship-issues",
+"p": 0.99951
+},
+{
+"text": "My partner never compliments me",
+"tokens": [
+"my",
+"partner",
+"never",
+"compliment",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99705
+},
+{
+"text": "I feel like my partner doesn’t notice me anymore",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"does",
+"not",
+"notice",
+"me",
+"anymore"
+],
+"top": "relationship-issues",
+"p": 0.99967
+},
+{
+"text": "I feel emotionally disconnected from my partner",
+"tokens": [
+"i",
+"feel",
+"emotionally",
+"disconnected",
+"from",
+"my",
+"partner"
+],
+"top": "relationship-issues",
+"p": 0.99613
+},
+{
+"text": "My partner and I have different priorities",
+"tokens": [
+"my",
+"partner",
+"and",
+"i",
+"have",
+"different",
+"priority"
+],
+"top": "relationship-issues",
+"p": 0.99925
+},
+{
+"text": "I feel like my partner doesn’t try to understand me",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"does",
+"not",
+"try",
+"to",
+"understand",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99975
+},
+{
+"text": "I don’t feel heard in my relationship",
+"tokens": [
+"i",
+"do",
+"not",
+"feel",
+"heard",
+"in",
+"my",
+"relationship"
+],
+"top": "relationship-issues",
+"p": 0.99847
+},
+{
+"text": "My partner and I don’t spend quality time together",
+"tokens": [
+"my",
+"partner",
+"and",
+"i",
+"do",
+"not",
+"spend",
+"quality",
+"time",
+"together"
+],
+"top": "relationship-issues",
+"p": 0.99982
+},
+{
+"text": "I feel like my partner doesn’t consider my feelings",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"does",
+"not",
+"consider",
+"my",
+"feeling"
+],
+"top": "relationship-issues",
+"p": 0.99973
+},
+{
+"text": "My partner doesn’t make me feel special",
+"tokens": [
+"my",
+"partner",
+"does",
+"not",
+"make",
+"me",
+"feel",
+"special"
+],
+"top": "relationship-issues",
+"p": 0.99893
+},
+{
+"text": "I feel like I always come second in my partner’s life",
+"tokens": [
+"i",
+"feel",
+"like",
+"i",
+"always",
+"come",
+"second",
+"in",
+"my",
+"partner",
+"life"
+],
+"top": "relationship-issues",
+"p": 0.99881
+},
+{
+"text": "I feel like my partner is not invested in our relationship",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"is",
+"not",
+"invested",
+"in",
+"our",
+"relationship"
+],
+"top": "relationship-issues",
+"p": 0.99995
+},
+{
+"text": "I feel like my partner doesn’t respect my boundaries",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"does",
+"not",
+"respect",
+"my",
+"boundary"
+],
+"top": "relationship-issues",
+"p": 0.99979
+},
+{
+"text": "My partner never asks how I’m feeling",
+"tokens": [
+"my",
+"partner",
+"never",
+"ask",
+"how",
+"i",
+"am",
+"feeling"
+],
+"top": "relationship-issues",
+"p": 0.99707
+},
+{
+"text": "I feel like my relationship is becoming distant",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"relationship",
+"is",
+"becoming",
+"distant"
+],
+"top": "relationship-issues",
+"p": 0.99937
+},
+{
+"text": "I don’t feel emotionally supported by my partner",
+"tokens": [
+"i",
+"do",
+"not",
+"feel",
+"emotionally",
+"supported",
+"by",
+"my",
+"partner"
+],
+"top": "relationship-issues",
+"p": 0.99985
+},
+{
+"text": "I feel like my partner doesn’t make an effort to keep our relationship strong",
+"tokens": [
+"i",
+"feel",
+"like",
+"my",
+"partner",
+"does",
+"not",
+"make",
+"an",
+"effort",
+"to",
+"keep",
+"our",
+"relationship",
+"strong"
+],
+"top": "relationship-issues",
+"p": 0.99999
+},
+{
+"text": "my girlfriend keeps ignoring me",
+"tokens": [
+"my",
+"girlfriend",
+"keep",
+"ignoring",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99696
+},
+{
+"text": "my boyfriend doesn't text back",
+"tokens": [
+"my",
+"boyfriend",
+"does",
+"not",
+"text",
+"back"
+],
+"top": "relationship-issues",
+"p": 0.99929
+},
+{
+"text": "my girlfriend broke up with me",
+"tokens": [
+"my",
+"girlfriend",
+"broke",
+"up",
+"with",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99721
+},
+{
+"text": "my boyfriend left me",
+"tokens": [
+"my",
+"boyfriend",
+"left",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99627
+},
+{
+"text": "my husband and I keep fighting",
+"tokens": [
+"my",
+"husband",
+"and",
+"i",
+"keep",
+"fighting"
+],
+"top": "relationship-issues",
+"p": 0.99683
+},
+{
+"text": "my wife doesn't listen to me",
+"tokens": [
+"my",
+"wife",
+"does",
+"not",
+"listen",
+"to",
+"me"
+],
+"top": "relationship-issues",
+"p": 0.99876
+},
+{
+"text": "I got dumped",
+"tokens": [
+"i",
+"got",
+"dumped"
+],
+"top": "relationship-issues",
+"p": 0.98976
+},
+{
+"text": "we broke up last week",
+"tokens": [
+"we",
+"broke",
+"up",
+"last",
+"week"
+],
+"top": "relationship-issues",
+"p": 0.99716
+},
+{
+"text": "my crush doesn't like me back",
+"tokens": [
+"my",
+"crush",
+"does",
+"not",
+"like",
+"me",
+"back"
+],
+"top": "relationship-issues",
+"p": 0.99924
+},
+{
+"text": "I think my partner is cheating",
+"tokens": [
+"i",
+"think",
+"my",
+"partner",
+"is",
+"cheating"
+],
+"top": "relationship-issues",
+"p": 0.99644
+},
+{
+"text": "my relationship is falling apart",
+"tokens": [
+"my",
+"relationship",
+"is",
+"falling",
+"apart"
+],
+"top": "relationship-issues",
+"p": 0.99784
+},
+{
+"text": "I miss my ex",
+"tokens": [
+"i",
+"miss",
+"my",
+"ex"
+],
+"top": "relationship-issues",
+"p": 0.99552
+},
+{
+"text": "Thanks for being such an amazing person",
+"tokens": [
+"thanks",
+"for",
+"being",
+"such",
+"an",
+"amazing",
+"person"
+],
+"top": "gratitude",
+"p": 0.99857
+},
+{
+"text": "I’m incredibly thankful for your help",
+"tokens": [
+"i",
+"am",
+"incredibly",
+"thankful",
+"for",
+"your",
+"help"
+],
+"top": "gratitude",
+"p": 0.97437
+},
+{
+"text": "I’m grateful for your wisdom",
+"tokens": [
+"i",
+"am",
+"grateful",
+"for",
+"your",
+"wisdom"
+],
+"top": "gratitude",
+"p": 0.9897
+},
+{
+"text": "Thank you for your constant support",
+"tokens": [
+"thank",
+"you",
+"for",
+"your",
+"constant",
+"support"
+],
+"top": "gratitude",
+"p": 0.98322
+},
+{
+"text": "I’m truly grateful for you",
+"tokens": [
+"i",
+"am",
+"truly",
+"grateful",
+"for",
+"you"
+],
+"top": "gratitude",
+"p": 0.95857
+},
+{
+"text": "Thank you for your amazing effort",
+"tokens": [
+"thank",
+"you",
+"for",
+"your",
+"amazing",
+"effort"
+],
+"top": "gratitude",
+"p": 0.98936
+},
+{
+"text": "Thanks for your continuous encouragement",
+"tokens": [
+"thanks",
+"for",
+"your",
+"continuous",
+"encouragement"
+],
+"top": "gratitude",
+"p": 0.98203
+},
+{
+"text": "Thanks for being a constant source of positivity",
+"tokens": [
+"thanks",
+"for",
+"being",
+"a",
+"constant",
+"source",
+"of",
+"positivity"
+],
+"top": "gratitude",
+"p": 0.99891
+},
+{
+"text": "I’m so thankful for your friendship and love",
+"tokens": [
+"i",
+"am",
+"so",
+"thankful",
+"for",
+"your",
+"friendship",
+"and",
+"love"
+],
+"top": "gratitude",
+"p": 0.98536
+},
+{
+"text": "I need a break",
+"tokens": [
+"i",
+"need",
+"a",
+"break"
+],
+"top": "i want a break",
+"p": 0.99705
+},
+{
+"text": "I just want to rest",
+"tokens": [
+"i",
+"just",
+"want",
+"to",
+"rest"
+],
+"top": "i want a break",
+"p": 0.9948
+},
+{
+"text": "I’m tired of everything",
+"tokens": [
+"i",
+"am",
+"tired",
+"of",
+"everything"
+],
+"top": "i want a break",
+"p": 0.96899
+},
+{
+"text": "I want a break from life",
+"tokens": [
+"i",
+"want",
+"a",
+"break",
+"from",
+"life"
+],
+"top": "i want a break",
+"p": 0.99514
+},
+{
+"text": "Can I take a break?",
+"tokens": [
+"can",
+"i",
+"take",
+"a",
+"break"
+],
+"top": "i want a break",
+"p": 0.99447
+},
+{
+"text": "I feel overwhelmed and need time off",
+"tokens": [
+"i",
+"feel",
+"overwhelmed",
+"and",
+"need",
+"time",
+"off"
+],
+"top": "i want a break",
+"p": 0.99671
+},
+{
+"text": "I just want to pause everything",
+"tokens": [
+"i",
+"just",
+"want",
+"to",
+"pause",
+"everything"
+],
+"top": "i want a break",
+"p": 0.99764
+},
+{
+"text": "I need space to breathe",
+"tokens": [
+"i",
+"need",
+"space",
+"to",
+"breathe"
+],
+"top": "i want a break",
+"p": 0.9984
+},
+{
+"text": "I’m mentally exhausted",
+"tokens": [
+"i",
+"am",
+"mentally",
+"exhausted"
+],
+"top": "i want a break",
+"p": 0.99654
+},
+{
+"text": "Can I stop for a while?",
+"tokens": [
+"can",
+"i",
+"stop",
+"for",
+"a",
+"while"
+],
+"top": "i want a break",
+"p": 0.99416
+},
+{
+"text": "I just need a break",
+"tokens": [
+"i",
+"just",
+"need",
+"a",
+"break"
+],
+"top": "i want a break",
+"p": 0.99981
+},
+{
+"text": "I need a vacation",
+"tokens": [
+"i",
+"need",
+"a",
+"vacation"
+],
+"top": "i want a break",
+"p": 0.99764
+},
+{
+"text": "I'm exhausted",
+"tokens": [
+"i",
+"am",
+"exhausted"
+],
+"top": "i want a break",
+"p": 0.97954
+},
+{
+"text": "I want to rest for a while",
+"tokens": [
+"i",
+"want",
+"to",
+"rest",
+"for",
+"a",
+"while"
+],
+"top": "i want a break",
+"p": 0.99953
+},
+{
+"text": "I need some time off",
+"tokens": [
+"i",
+"need",
+"some",
+"time",
+"off"
+],
+"top": "i want a break",
+"p": 0.99965
+},
+{
+"text": "I'm so tired of studying",
+"tokens": [
+"i",
+"am",
+"so",
+"tired",
+"of",
+"studying"
+],
+"top": "i want a break",
+"p": 0.9967
+},
+{
+"text": "I need a day off from everything",
+"tokens": [
+"i",
+"need",
+"a",
+"day",
+"off",
+"from",
+"everything"
+],
+"top": "i want a break",
+"p": 0.99976
+},
+{
+"text": "I’m stressed",
+"tokens": [
+"i",
+"am",
+"stressed"
+],
+"top": "i am stressed out",
+"p": 0.98564
+},
+{
+"text": "Too much pressure",
+"tokens": [
+"too",
+"much",
+"pressure"
+],
+"top": "i am stressed out",
+"p": 0.99647
+},
+{
+"text": "I can't handle this",
+"tokens": [
+"i",
+"can",
+"not",
+"handle",
+"this"
+],
+"top": "i am stressed out",
+"p": 0.99159
+},
+{
+"text": "I feel burned out",
+"tokens": [
+"i",
+"feel",
+"burned",
+"out"
+],
+"top": "i am stressed out",
+"p": 0.99482
+},
+{
+"text": "Everything is too much",
+"tokens": [
+"everything",
+"is",
+"too",
+"much"
+],
+"top": "i am stressed out",
+"p": 0.98197
+},
+{
+"text": "I’m constantly anxious",
+"tokens": [
+"i",
+"am",
+"constantly",
+"anxious"
+],
+"top": "i am stressed out",
+"p": 0.9983
+},
+{
+"text": "I have so many deadlines",
+"tokens": [
+"i",
+"have",
+"so",
+"many",
+"deadline"
+],
+"top": "i am stressed out",
+"p": 0.99713
+},
+{
+"text": "I'm overwhelmed",
+"tokens": [
+"i",
+"am",
+"overwhelmed"
+],
+"top": "i am stressed out",
+"p": 0.97975
+},
+{
+"text": "It’s all crashing down",
+"tokens": [
+"it",
+"all",
+"crashing",
+"down"
+],
+"top": "i am stressed out",
+"p": 0.99357
+},
+{
+"text": "I can’t think clearly",
+"tokens": [
+"i",
+"can",
+"not",
+"think",
+"clearly"
+],
+"top": "i am stressed out",
+"p": 0.99132
+},
+{
+"text": "the exam stuff is a lot",
+"tokens": [
+"the",
+"exam",
+"stuff",
+"is",
+"a",
+"lot"
+],
+"top": "i am stressed out",
+"p": 0.99665
+},
+{
+"text": "exams are stressing me out",
+"tokens": [
+"exam",
+"are",
+"stressing",
+"me",
+"out"
+],
+"top": "i am stressed out",
+"p": 0.99945
+},
+{
+"text": "I have too many deadlines",
+"tokens": [
+"i",
+"have",
+"too",
+"many",
+"deadline"
+],
+"top": "i am stressed out",
+"p": 0.99981
+},
+{
+"text": "work is overwhelming",
+"tokens": [
+"work",
+"is",
+"overwhelming"
+],
+"top": "i am stressed out",
+"p": 0.99562
+},
+{
+"text": "I'm anxious about my exams",
+"tokens": [
+"i",
+"am",
+"anxious",
+"about",
+"my",
+"exam"
+],
+"top": "i am stressed out",
+"p": 0.99667
+},
+{
+"text": "college is too much right now",
+"tokens": [
+"college",
+"is",
+"too",
+"much",
+"right",
+"now"
+],
+"top": "i am stressed out",
+"p": 0.99952
+},
+{
+"text": "my job is so stressful",
+"tokens": [
+"my",
+"job",
+"is",
+"so",
+"stressful"
+],
+"top": "i am stressed out",
+"p": 0.99771
+},
+{
+"text": "I can't keep up with my assignments",
+"tokens": [
+"i",
+"can",
+"not",
+"keep",
+"up",
+"with",
+"my",
+"assignment"
+],
+"top": "i am stressed out",
+"p": 0.99559
+},
+{
+"text": "there's too much on my plate",
+"tokens": [
+"there",
+"too",
+"much",
+"on",
+"my",
+"plate"
+],
+"top": "i am stressed out",
+"p": 0.99861
+},
+{
+"text": "I'm burnt out",
+"tokens": [
+"i",
+"am",
+"burnt",
+"out"
+],
+"top": "i am stressed out",
+"p": 0.99649
+},
+{
+"text": "placements are stressing me",
+"tokens": [
+"placement",
+"are",
+"stressing",
+"me"
+],
+"top": "i am stressed out",
+"p": 0.99541
+},
+{
+"text": "my boss keeps piling on work",
+"tokens": [
+"my",
+"boss",
+"keep",
+"piling",
+"on",
+"work"
+],
+"top": "i am stressed out",
+"p": 0.99812
+},
+{
+"text": "I’m a failure",
+"tokens": [
+"i",
+"am",
+"a",
+"failure"
+],
+"top": "i will never succeed in life",
+"p": 0.98712
+},
+{
+"text": "I can't do anything right",
+"tokens": [
+"i",
+"can",
+"not",
+"do",
+"anything",
+"right"
+],
+"top": "i will never succeed in life",
+"p": 0.99682
+},
+{
+"text": "Nothing I do works",
+"tokens": [
+"nothing",
+"i",
+"do",
+"work"
+],
+"top": "i will never succeed in life",
+"p": 0.99191
+},
+{
+"text": "I’m never going to make it",
+"tokens": [
+"i",
+"am",
+"never",
+"going",
+"to",
+"make",
+"it"
+],
+"top": "i will never succeed in life",
+"p": 0.99153
+},
+{
+"text": "I will never succeed",
+"tokens": [
+"i",
+"will",
+"never",
+"succeed"
+],
+"top": "i will never succeed in life",
+"p": 0.99793
+},
+{
+"text": "I’ve lost all hope",
+"tokens": [
+"i",
+"have",
+"lost",
+"all",
+"hope"
+],
+"top": "i will never succeed in life",
+"p": 0.99695
+},
+{
+"text": "I’m not good enough",
+"tokens": [
+"i",
+"am",
+"not",
+"good",
+"enough"
+],
+"top": "i will never succeed in life",
+"p": 0.9857
+},
+{
+"text": "I always mess things up",
+"tokens": [
+"i",
+"always",
+"mess",
+"thing",
+"up"
+],
+"top": "i will never succeed in life",
+"p": 0.99075
+},
+{
+"text": "I keep failing",
+"tokens": [
+"i",
+"keep",
+"failing"
+],
+"top": "i will never succeed in life",
+"p": 0.98658
+},
+{
+"text": "What’s the point?",
+"tokens": [
+"what",
+"the",
+"point"
+],
+"top": "i will never succeed in life",
+"p": 0.98549
+},
+{
+"text": "I failed my exam",
+"tokens": [
+"i",
+"failed",
+"my",
+"exam"
+],
+"top": "i will never succeed in life",
+"p": 0.98086
+},
+{
+"text": "I'll never get a good job",
+"tokens": [
+"i",
+"will",
+"never",
+"get",
+"a",
+"good",
+"job"
+],
+"top": "i will never succeed in life",
+"p": 0.9999
+},
+{
+"text": "I keep failing at everything",
+"tokens": [
+"i",
+"keep",
+"failing",
+"at",
+"everything"
+],
+"top": "i will never succeed in life",
+"p": 0.99573
+},
+{
+"text": "I'm not good enough for anything",
+"tokens": [
+"i",
+"am",
+"not",
+"good",
+"enough",
+"for",
+"anything"
+],
+"top": "i will never succeed in life",
+"p": 0.99945
+},
+{
+"text": "I didn't get the placement",
+"tokens": [
+"i",
+"did",
+"not",
+"get",
+"the",
+"placement"
+],
+"top": "i will never succeed in life",
+"p": 0.99815
+},
+{
+"text": "I got rejected again",
+"tokens": [
+"i",
+"got",
+"rejected",
+"again"
+],
+"top": "i will never succeed in life",
+"p": 0.99686
+},
+{
+"text": "I feel sad",
+"tokens": [
+"i",
+"feel",
+"sad"
+],
+"top": "i am sad",
+"p": 0.9956
+},
+{
+"text": "I'm not okay",
+"tokens": [
+"i",
+"am",
+"not",
+"okay"
+],
+"top": "i am sad",
+"p": 0.99338
+},
+{
+"text": "I’m crying",
+"tokens": [
+"i",
+"am",
+"crying"
+],
+"top": "i am sad",
+"p": 0.99181
+},
+{
+"text": "I’m feeling empty",
+"tokens": [
+"i",
+"am",
+"feeling",
+"empty"
+],
+"top": "i am sad",
+"p": 0.99852
+},
+{
+"text": "I feel down today",
+"tokens": [
+"i",
+"feel",
+"down",
+"today"
+],
+"top": "i am sad",
+"p": 0.99642
+},
+{
+"text": "Nothing makes me happy",
+"tokens": [
+"nothing",
+"make",
+"me",
+"happy"
+],
+"top": "i am sad",
+"p": 0.9937
+},
+{
+"text": "I want to cry",
+"tokens": [
+"i",
+"want",
+"to",
+"cry"
+],
+"top": "i am sad",
+"p": 0.99
+},
+{
+"text": "I’m low",
+"tokens": [
+"i",
+"am",
+"low"
+],
+"top": "i am sad",
+"p": 0.99257
+},
+{
+"text": "I feel broken",
+"tokens": [
+"i",
+"feel",
+"broken"
+],
+"top": "i am sad",
+"p": 0.98375
+},
+{
+"text": "Today is a rough day",
+"tokens": [
+"today",
+"is",
+"a",
+"rough",
+"day"
+],
+"top": "i am sad",
+"p": 0.99581
+},
+{
+"text": "I feel really low today",
+"tokens": [
+"i",
+"feel",
+"really",
+"low",
+"today"
+],
+"top": "i am sad",
+"p": 0.99966
+},
+{
+"text": "I've been feeling down",
+"tokens": [
+"i",
+"have",
+"been",
+"feeling",
+"down"
+],
+"top": "i am sad",
+"p": 0.99734
+},
+{
+"text": "I feel empty",
+"tokens": [
+"i",
+"feel",
+"empty"
+],
+"top": "i am sad",
+"p": 0.99546
+},
+{
+"text": "nothing makes me happy anymore",
+"tokens": [
+"nothing",
+"make",
+"me",
+"happy",
+"anymore"
+],
+"top": "i am sad",
+"p": 0.99895
+},
+{
+"text": "I'm lonely",
+"tokens": [
+"i",
+"am",
+"lonely"
+],
+"top": "i am sad",
+"p": 0.99241
+},
+{
+"text": "I feel so alone",
+"tokens": [
+"i",
+"feel",
+"so",
+"alone"
+],
+"top": "i am sad",
+"p": 0.994
+},
+{
+"text": "I've been crying a lot",
+"tokens": [
+"i",
+"have",
+"been",
+"crying",
+"a",
+"lot"
+],
+"top": "i am sad",
+"p": 0.99943
+},
+{
+"text": "I feel blue",
+"tokens": [
+"i",
+"feel",
+"blue"
+],
+"top": "i am sad",
+"p": 0.99513
+},
+{
+"text": "my heart feels heavy",
+"tokens": [
+"my",
+"heart",
+"feel",
+"heavy"
+],
+"top": "i am sad",
+"p": 0.99581
+},
+{
+"text": "I'm having a bad day",
+"tokens": [
+"i",
+"am",
+"having",
+"a",
+"bad",
+"day"
+],
+"top": "i am sad",
+"p": 0.99866
+},
+{
+"text": "They keep making fun of me",
+"tokens": [
+"they",
+"keep",
+"making",
+"fun",
+"of",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99851
+},
+{
+"text": "I’m being bullied",
+"tokens": [
+"i",
+"am",
+"being",
+"bullied"
+],
+"top": "i am a victim of bullying",
+"p": 0.9946
+},
+{
+"text": "They won’t stop hurting me",
+"tokens": [
+"they",
+"will",
+"not",
+"stop",
+"hurting",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99637
+},
+{
+"text": "People keep targeting me",
+"tokens": [
+"people",
+"keep",
+"targeting",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99749
+},
+{
+"text": "I’m scared of going to school",
+"tokens": [
+"i",
+"am",
+"scared",
+"of",
+"going",
+"to",
+"school"
+],
+"top": "i am a victim of bullying",
+"p": 0.99294
+},
+{
+"text": "They call me names",
+"tokens": [
+"they",
+"call",
+"me",
+"name"
+],
+"top": "i am a victim of bullying",
+"p": 0.99823
+},
+{
+"text": "I’m being harassed",
+"tokens": [
+"i",
+"am",
+"being",
+"harassed"
+],
+"top": "i am a victim of bullying",
+"p": 0.99478
+},
+{
+"text": "Nobody stands up for me",
+"tokens": [
+"nobody",
+"stand",
+"up",
+"for",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99541
+},
+{
+"text": "I feel unsafe",
+"tokens": [
+"i",
+"feel",
+"unsafe"
+],
+"top": "i am a victim of bullying",
+"p": 0.9826
+},
+{
+"text": "Why are they so cruel?",
+"tokens": [
+"why",
+"are",
+"they",
+"so",
+"cruel"
+],
+"top": "i am a victim of bullying",
+"p": 0.99311
+},
+{
+"text": "people at school pick on me",
+"tokens": [
+"people",
+"at",
+"school",
+"pick",
+"on",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99983
+},
+{
+"text": "my classmates mock me",
+"tokens": [
+"my",
+"classmate",
+"mock",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99596
+},
+{
+"text": "someone keeps harassing me online",
+"tokens": [
+"someone",
+"keep",
+"harassing",
+"me",
+"online"
+],
+"top": "i am a victim of bullying",
+"p": 0.99907
+},
+{
+"text": "they call me names every day",
+"tokens": [
+"they",
+"call",
+"me",
+"name",
+"every",
+"day"
+],
+"top": "i am a victim of bullying",
+"p": 0.99904
+},
+{
+"text": "I'm being cyberbullied",
+"tokens": [
+"i",
+"am",
+"being",
+"cyberbullied"
+],
+"top": "i am a victim of bullying",
+"p": 0.99352
+},
+{
+"text": "my coworkers gang up on me",
+"tokens": [
+"my",
+"coworker",
+"gang",
+"up",
+"on",
+"me"
+],
+"top": "i am a victim of bullying",
+"p": 0.99791
+},
+{
+"text": "I’m scared to report them",
+"tokens": [
+"i",
+"am",
+"scared",
+"to",
+"report",
+"them"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99298
+},
+{
+"text": "What if they retaliate?",
+"tokens": [
+"what",
+"if",
+"they",
+"retaliate"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99363
+},
+{
+"text": "Filing a case seems risky",
+"tokens": [
+"filing",
+"a",
+"case",
+"seem",
+"risky"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99757
+},
+{
+"text": "I’m afraid of the consequences",
+"tokens": [
+"i",
+"am",
+"afraid",
+"of",
+"the",
+"consequence"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99359
+},
+{
+"text": "What if no one believes me?",
+"tokens": [
+"what",
+"if",
+"no",
+"one",
+"believe",
+"me"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99789
+},
+{
+"text": "I want to speak up but I’m scared",
+"tokens": [
+"i",
+"want",
+"to",
+"speak",
+"up",
+"but",
+"i",
+"am",
+"scared"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99852
+},
+{
+"text": "I feel powerless",
+"tokens": [
+"i",
+"feel",
+"powerless"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.97886
+},
+{
+"text": "I don’t want to make things worse",
+"tokens": [
+"i",
+"do",
+"not",
+"want",
+"to",
+"make",
+"thing",
+"worse"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99336
+},
+{
+"text": "I want to quit",
+"tokens": [
+"i",
+"want",
+"to",
+"quit"
+],
+"top": "i wish to quit",
+"p": 0.99432
+},
+{
+"text": "I’m done with everything",
+"tokens": [
+"i",
+"am",
+"done",
+"with",
+"everything"
+],
+"top": "i wish to quit",
+"p": 0.98184
+},
+{
+"text": "I can’t continue like this",
+"tokens": [
+"i",
+"can",
+"not",
+"continue",
+"like",
+"this"
+],
+"top": "i wish to quit",
+"p": 0.99608
+},
+{
+"text": "I just want to stop trying",
+"tokens": [
+"i",
+"just",
+"want",
+"to",
+"stop",
+"trying"
+],
+"top": "i wish to quit",
+"p": 0.99502
+},
+{
+"text": "This is too much for me",
+"tokens": [
+"this",
+"is",
+"too",
+"much",
+"for",
+"me"
+],
+"top": "i wish to quit",
+"p": 0.98144
+},
+{
+"text": "I want to disappear",
+"tokens": [
+"i",
+"want",
+"to",
+"disappear"
+],
+"top": "i wish to quit",
+"p": 0.98909
+},
+{
+"text": "I want to give up",
+"tokens": [
+"i",
+"want",
+"to",
+"give",
+"up"
+],
+"top": "i wish to quit",
+"p": 0.9949
+},
+{
+"text": "I’m ready to quit",
+"tokens": [
+"i",
+"am",
+"ready",
+"to",
+"quit"
+],
+"top": "i wish to quit",
+"p": 0.99823
+},
+{
+"text": "No more of this",
+"tokens": [
+"no",
+"more",
+"of",
+"this"
+],
+"top": "i wish to quit",
+"p": 0.98851
+},
+{
+"text": "I want to run away",
+"tokens": [
+"i",
+"want",
+"to",
+"run",
+"away"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99566
+},
+{
+"text": "I wish I could escape",
+"tokens": [
+"i",
+"wish",
+"i",
+"could",
+"escape"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99346
+},
+{
+"text": "I want to leave the country",
+"tokens": [
+"i",
+"want",
+"to",
+"leave",
+"the",
+"country"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99588
+},
+{
+"text": "I want to disappear and start over",
+"tokens": [
+"i",
+"want",
+"to",
+"disappear",
+"and",
+"start",
+"over"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99612
+},
+{
+"text": "I need to get out of here",
+"tokens": [
+"i",
+"need",
+"to",
+"get",
+"out",
+"of",
+"here"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99551
+},
+{
+"text": "I’m thinking about leaving everything behind",
+"tokens": [
+"i",
+"am",
+"thinking",
+"about",
+"leaving",
+"everything",
+"behind"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99715
+},
+{
+"text": "I want to go somewhere no one knows me",
+"tokens": [
+"i",
+"want",
+"to",
+"go",
+"somewhere",
+"no",
+"one",
+"know",
+"me"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99825
+},
+{
+"text": "I wish I could vanish",
+"tokens": [
+"i",
+"wish",
+"i",
+"could",
+"vanish"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99307
+},
+{
+"text": "I want to escape from my life",
+"tokens": [
+"i",
+"want",
+"to",
+"escape",
+"from",
+"my",
+"life"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99504
+},
+{
+"text": "I need to get away from all this",
+"tokens": [
+"i",
+"need",
+"to",
+"get",
+"away",
+"from",
+"all",
+"this"
+],
+"top": "i want to leave the country and run away",
+"p": 0.99823
+},
+{
+"text": "I let them all down",
+"tokens": [
+"i",
+"let",
+"them",
+"all",
+"down"
+],
+"top": "i let everyone down",
+"p": 0.99554
+},
+{
+"text": "Everyone expected more from me",
+"tokens": [
+"everyone",
+"expected",
+"more",
+"from",
+"me"
+],
+"top": "i let everyone down",
+"p": 0.99891
+},
+{
+"text": "I failed everyone",
+"tokens": [
+"i",
+"failed",
+"everyone"
+],
+"top": "i let everyone down",
+"p": 0.98086
+},
+{
+"text": "They’re all disappointed in me",
+"tokens": [
+"they",
+"are",
+"all",
+"disappointed",
+"in",
+"me"
+],
+"top": "i let everyone down",
+"p": 0.99731
+},
+{
+"text": "I didn’t meet their expectations",
+"tokens": [
+"i",
+"did",
+"not",
+"meet",
+"their",
+"expectation"
+],
+"top": "i let everyone down",
+"p": 0.99922
+},
+{
+"text": "I ruined everything",
+"tokens": [
+"i",
+"ruined",
+"everything"
+],
+"top": "i let everyone down",
+"p": 0.98868
+},
+{
+"text": "I’m a letdown",
+"tokens": [
+"i",
+"am",
+"a",
+"letdown"
+],
+"top": "i let everyone down",
+"p": 0.98614
+},
+{
+"text": "They deserve better than me",
+"tokens": [
+"they",
+"deserve",
+"better",
+"than",
+"me"
+],
+"top": "i let everyone down",
+"p": 0.98296
+},
+{
+"text": "I should have done more",
+"tokens": [
+"i",
+"should",
+"have",
+"done",
+"more"
+],
+"top": "i let everyone down",
+"p": 0.97602
+},
+{
+"text": "I feel ashamed",
+"tokens": [
+"i",
+"feel",
+"ashamed"
+],
+"top": "i let everyone down",
+"p": 0.98698
+},
+{
+"text": "my parents are disappointed in me",
+"tokens": [
+"my",
+"parent",
+"are",
+"disappointed",
+"in",
+"me"
+],
+"top": "i let everyone down",
+"p": 0.99903
+},
+{
+"text": "I failed my exams and my parents are disappointed",
+"tokens": [
+"i",
+"failed",
+"my",
+"exam",
+"and",
+"my",
+"parent",
+"are",
+"disappointed"
+],
+"top": "i let everyone down",
+"p": 0.99814
+},
+{
+"text": "I disappointed my family",
+"tokens": [
+"i",
+"disappointed",
+"my",
+"family"
+],
+"top": "i let everyone down",
+"p": 0.9989
+},
+{
+"text": "my parents expected more",
+"tokens": [
+"my",
+"parent",
+"expected",
+"more"
+],
+"top": "i let everyone down",
+"p": 0.99913
+},
+{
+"text": "I feel like a burden to my family",
+"tokens": [
+"i",
+"feel",
+"like",
+"a",
+"burden",
+"to",
+"my",
+"family"
+],
+"top": "i let everyone down",
+"p": 0.99256
+},
+{
+"text": "I wish I was better",
+"tokens": [
+"i",
+"wish",
+"i",
+"was",
+"better"
+],
+"top": "i wish i was better than them",
+"p": 0.98386
+},
+{
+"text": "Why can’t I be as good as them?",
+"tokens": [
+"why",
+"can",
+"not",
+"i",
+"be",
+"as",
+"good",
+"as",
+"them"
+],
+"top": "i wish i was better than them",
+"p": 0.99972
+},
+{
+"text": "Everyone is better than me",
+"tokens": [
+"everyone",
+"is",
+"better",
+"than",
+"me"
+],
+"top": "i wish i was better than them",
+"p": 0.99232
+},
+{
+"text": "I always fall short",
+"tokens": [
+"i",
+"always",
+"fall",
+"short"
+],
+"top": "i wish i was better than them",
+"p": 0.99779
+},
+{
+"text": "They always win",
+"tokens": [
+"they",
+"always",
+"win"
+],
+"top": "i wish i was better than them",
+"p": 0.98296
+},
+{
+"text": "I hate being second best",
+"tokens": [
+"i",
+"hate",
+"being",
+"second",
+"best"
+],
+"top": "i wish i was better than them",
+"p": 0.99723
+},
+{
+"text": "Why can’t I be enough?",
+"tokens": [
+"why",
+"can",
+"not",
+"i",
+"be",
+"enough"
+],
+"top": "i wish i was better than them",
+"p": 0.98771
+},
+{
+"text": "I want to be the best",
+"tokens": [
+"i",
+"want",
+"to",
+"be",
+"the",
+"best"
+],
+"top": "i wish i was better than them",
+"p": 0.99566
+},
+{
+"text": "I’m tired of losing to them",
+"tokens": [
+"i",
+"am",
+"tired",
+"of",
+"losing",
+"to",
+"them"
+],
+"top": "i wish i was better than them",
+"p": 0.98273
+},
+{
+"text": "I feel worthless in comparison",
+"tokens": [
+"i",
+"feel",
+"worthless",
+"in",
+"comparison"
+],
+"top": "i wish i was better than them",
+"p": 0.99617
+},
+{
+"text": "everyone's better than me at everything",
+"tokens": [
+"everyone",
+"better",
+"than",
+"me",
+"at",
+"everything"
+],
+"top": "i wish i was better than them",
+"p": 0.99288
+},
+{
+"text": "my friends are all more successful",
+"tokens": [
+"my",
+"friend",
+"are",
+"all",
+"more",
+"successful"
+],
+"top": "i wish i was better than them",
+"p": 0.99188
+},
+{
+"text": "I always compare myself to others",
+"tokens": [
+"i",
+"always",
+"compare",
+"myself",
+"to",
+"other"
+],
+"top": "i wish i was better than them",
+"p": 0.99544
+},
+{
+"text": "why is everyone else so talented",
+"tokens": [
+"why",
+"is",
+"everyone",
+"else",
+"so",
+"talented"
+],
+"top": "i wish i was better than them",
+"p": 0.99915
+},
+{
+"text": "I hate myself",
+"tokens": [
+"i",
+"hate",
+"myself"
+],
+"top": "i hate myself!",
+"p": 0.98205
+},
+{
+"text": "I can't stand myself",
+"tokens": [
+"i",
+"can",
+"not",
+"stand",
+"myself"
+],
+"top": "i hate myself!",
+"p": 0.99475
+},
+{
+"text": "I’m the worst",
+"tokens": [
+"i",
+"am",
+"the",
+"worst"
+],
+"top": "i hate myself!",
+"p": 0.98733
+},
+{
+"text": "I’m so disgusting",
+"tokens": [
+"i",
+"am",
+"so",
+"disgusting"
+],
+"top": "i hate myself!",
+"p": 0.9863
+},
+{
+"text": "I wish I weren’t me",
+"tokens": [
+"i",
+"wish",
+"i",
+"were",
+"not",
+"me"
+],
+"top": "i hate myself!",
+"p": 0.99177
+},
+{
+"text": "I don’t deserve to be loved",
+"tokens": [
+"i",
+"do",
+"not",
+"deserve",
+"to",
+"be",
+"loved"
+],
+"top": "i hate myself!",
+"p": 0.99547
+},
+{
+"text": "I can’t forgive myself",
+"tokens": [
+"i",
+"can",
+"not",
+"forgive",
+"myself"
+],
+"top": "i hate myself!",
+"p": 0.99835
+},
+{
+"text": "I’m a burden",
+"tokens": [
+"i",
+"am",
+"a",
+"burden"
+],
+"top": "i hate myself!",
+"p": 0.97364
+},
+{
+"text": "Everyone would be better without me",
+"tokens": [
+"everyone",
+"would",
+"be",
+"better",
+"without",
+"me"
+],
+"top": "i hate myself!",
+"p": 0.99123
+},
+{
+"text": "I loathe who I am",
+"tokens": [
+"i",
+"loathe",
+"who",
+"i",
+"am"
+],
+"top": "i hate myself!",
+"p": 0.99649
+},
+{
+"text": "I wish I had won",
+"tokens": [
+"i",
+"wish",
+"i",
+"had",
+"won"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99544
+},
+{
+"text": "I wanted to succeed so badly",
+"tokens": [
+"i",
+"wanted",
+"to",
+"succeed",
+"so",
+"badly"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99805
+},
+{
+"text": "I feel like a loser",
+"tokens": [
+"i",
+"feel",
+"like",
+"a",
+"loser"
+],
+"top": "i wish i could've been a winner",
+"p": 0.98822
+},
+{
+"text": "They all won, not me",
+"tokens": [
+"they",
+"all",
+"won",
+"not",
+"me"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99218
+},
+{
+"text": "I should’ve done better",
+"tokens": [
+"i",
+"should",
+"have",
+"done",
+"better"
+],
+"top": "i wish i could've been a winner",
+"p": 0.97293
+},
+{
+"text": "I was so close",
+"tokens": [
+"i",
+"was",
+"so",
+"close"
+],
+"top": "i wish i could've been a winner",
+"p": 0.9928
+},
+{
+"text": "I missed my shot",
+"tokens": [
+"i",
+"missed",
+"my",
+"shot"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99504
+},
+{
+"text": "Why couldn’t I be the winner?",
+"tokens": [
+"why",
+"could",
+"not",
+"i",
+"be",
+"the",
+"winner"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99318
+},
+{
+"text": "It was supposed to be me",
+"tokens": [
+"it",
+"was",
+"supposed",
+"to",
+"be",
+"me"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99361
+},
+{
+"text": "I trained so hard for nothing",
+"tokens": [
+"i",
+"trained",
+"so",
+"hard",
+"for",
+"nothing"
+],
+"top": "i wish i could've been a winner",
+"p": 0.99658
+},
+{
+"text": "I hate losing",
+"tokens": [
+"i",
+"hate",
+"losing"
+],
+"top": "i hate losing.",
+"p": 0.98185
+},
+{
+"text": "Losing makes me feel terrible",
+"tokens": [
+"losing",
+"make",
+"me",
+"feel",
+"terrible"
+],
+"top": "i hate losing.",
+"p": 0.99379
+},
+{
+"text": "I can’t deal with loss",
+"tokens": [
+"i",
+"can",
+"not",
+"deal",
+"with",
+"loss"
+],
+"top": "i hate losing.",
+"p": 0.99652
+},
+{
+"text": "Why do I always lose?",
+"tokens": [
+"why",
+"do",
+"i",
+"always",
+"lose"
+],
+"top": "i hate losing.",
+"p": 0.99255
+},
+{
+"text": "Losing breaks me",
+"tokens": [
+"losing",
+"break",
+"me"
+],
+"top": "i hate losing.",
+"p": 0.98081
+},
+{
+"text": "I’m tired of failing",
+"tokens": [
+"i",
+"am",
+"tired",
+"of",
+"failing"
+],
+"top": "i hate losing.",
+"p": 0.96088
+},
+{
+"text": "I can’t take another loss",
+"tokens": [
+"i",
+"can",
+"not",
+"take",
+"another",
+"loss"
+],
+"top": "i hate losing.",
+"p": 0.99703
+},
+{
+"text": "Every time I try, I lose",
+"tokens": [
+"every",
+"time",
+"i",
+"try",
+"i",
+"lose"
+],
+"top": "i hate losing.",
+"p": 0.99815
+},
+{
+"text": "Losing hurts so much",
+"tokens": [
+"losing",
+"hurt",
+"so",
+"much"
+],
+"top": "i hate losing.",
+"p": 0.99485
+},
+{
+"text": "Why does losing feel like the end?",
+"tokens": [
+"why",
+"does",
+"losing",
+"feel",
+"like",
+"the",
+"end"
+],
+"top": "i hate losing.",
+"p": 0.99713
+},
+{
+"text": "I think I’m losing it",
+"tokens": [
+"i",
+"think",
+"i",
+"am",
+"losing",
+"it"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99043
+},
+{
+"text": "I’m going crazy",
+"tokens": [
+"i",
+"am",
+"going",
+"crazy"
+],
+"top": "i think i'm losing my mind",
+"p": 0.9917
+},
+{
+"text": "My mind feels broken",
+"tokens": [
+"my",
+"mind",
+"feel",
+"broken"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99052
+},
+{
+"text": "I can't focus at all",
+"tokens": [
+"i",
+"can",
+"not",
+"focus",
+"at",
+"all"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99335
+},
+{
+"text": "Everything feels out of control",
+"tokens": [
+"everything",
+"feel",
+"out",
+"of",
+"control"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99415
+},
+{
+"text": "I feel mentally unstable",
+"tokens": [
+"i",
+"feel",
+"mentally",
+"unstable"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99544
+},
+{
+"text": "My head is messed up",
+"tokens": [
+"my",
+"head",
+"is",
+"messed",
+"up"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99803
+},
+{
+"text": "I’m losing grip on reality",
+"tokens": [
+"i",
+"am",
+"losing",
+"grip",
+"on",
+"reality"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99828
+},
+{
+"text": "I feel disconnected",
+"tokens": [
+"i",
+"feel",
+"disconnected"
+],
+"top": "i think i'm losing my mind",
+"p": 0.98367
+},
+{
+"text": "I think I’m losing control",
+"tokens": [
+"i",
+"think",
+"i",
+"am",
+"losing",
+"control"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99909
+},
+{
+"text": "my thoughts won't stop",
+"tokens": [
+"my",
+"thought",
+"will",
+"not",
+"stop"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99605
+},
+{
+"text": "I can't think straight",
+"tokens": [
+"i",
+"can",
+"not",
+"think",
+"straight"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99596
+},
+{
+"text": "my head is a mess",
+"tokens": [
+"my",
+"head",
+"is",
+"a",
+"mess"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99403
+},
+{
+"text": "it's 3am and my thoughts won't stop",
+"tokens": [
+"it",
+"am",
+"and",
+"my",
+"thought",
+"will",
+"not",
+"stop"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99937
+},
+{
+"text": "I'm overthinking everything",
+"tokens": [
+"i",
+"am",
+"overthinking",
+"everything"
+],
+"top": "i think i'm losing my mind",
+"p": 0.98892
+},
+{
+"text": "I feel like I'm going insane",
+"tokens": [
+"i",
+"feel",
+"like",
+"i",
+"am",
+"going",
+"insane"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99652
+},
+{
+"text": "I'm feeling really low today",
+"tokens": [
+"i",
+"am",
+"feeling",
+"really",
+"low",
+"today"
+],
+"top": "i am sad",
+"p": 0.99988
+},
+{
+"text": "i cant take this anymore",
+"tokens": [
+"i",
+"can",
+"not",
+"take",
+"this",
+"anymore"
+],
+"top": "i wish to quit",
+"p": 0.34251
+},
+{
+"text": "Nobody at school leaves me alone",
+"tokens": [
+"nobody",
+"at",
+"school",
+"leave",
+"me",
+"alone"
+],
+"top": "i am a victim of bullying",
+"p": 0.98543
+},
+{
+"text": "my girlfriend keeps ignoring my texts",
+"tokens": [
+"my",
+"girlfriend",
+"keep",
+"ignoring",
+"my",
+"text"
+],
+"top": "relationship-issues",
+"p": 0.99629
+},
+{
+"text": "I just need some rest",
+"tokens": [
+"i",
+"just",
+"need",
+"some",
+"rest"
+],
+"top": "i want a break",
+"p": 0.99987
+},
+{
+"text": "I failed my exams and my parents are disappointed",
+"tokens": [
+"i",
+"failed",
+"my",
+"exam",
+"and",
+"my",
+"parent",
+"are",
+"disappointed"
+],
+"top": "i let everyone down",
+"p": 0.99814
+},
+{
+"text": "Everyone's better than me at everything",
+"tokens": [
+"everyone",
+"better",
+"than",
+"me",
+"at",
+"everything"
+],
+"top": "i wish i was better than them",
+"p": 0.99288
+},
+{
+"text": "thank u so much!!",
+"tokens": [
+"thank",
+"u",
+"so",
+"much"
+],
+"top": "thanks",
+"p": 0.9998
+},
+{
+"text": "I’m scared they’ll come after me if I report it",
+"tokens": [
+"i",
+"am",
+"scared",
+"they",
+"will",
+"come",
+"after",
+"me",
+"if",
+"i",
+"report",
+"it"
+],
+"top": "i am afraid to file a case against bullying",
+"p": 0.99797
+},
+{
+"text": "I wish I could just disappear to another country",
+"tokens": [
+"i",
+"wish",
+"i",
+"could",
+"just",
+"disappear",
+"to",
+"another",
+"country"
+],
+"top": "i want to leave the country and run away",
+"p": 0.98589
+},
+{
+"text": "it’s 3am and my thoughts won’t stop",
+"tokens": [
+"it",
+"am",
+"and",
+"my",
+"thought",
+"will",
+"not",
+"stop"
+],
+"top": "i think i'm losing my mind",
+"p": 0.99937
+}
+]

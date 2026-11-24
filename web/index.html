@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>EmoCareBot</title>
+  <meta name="description" content="A gentle chatbot that listens when you're having a hard time. Runs entirely in your browser." />
+  <meta name="theme-color" content="#1b1f3b" />
+  <link rel="icon" href="brain-heart-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="sky" aria-hidden="true"></div>
+
+  <header class="top">
+    <div class="brand">
+      <img src="brain-heart-logo.png" alt="" width="44" height="44" />
+      <div>
+        <h1>EmoCareBot</h1>
+        <p>A quiet place to say how you feel</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button type="button" class="ghost" id="clear_button" title="Start a new conversation">New chat</button>
+      <a class="help-link" href="#help" id="help_link">Need help now?</a>
+    </div>
+  </header>
+
+  <main class="chat" aria-label="Conversation">
+    <ol class="messages" id="messages" aria-live="polite"></ol>
+
+    <div class="chips" id="chips" aria-label="Ways to start"></div>
+
+    <form class="composer" id="composer" autocomplete="off">
+      <label for="input_message" class="sr-only">Your message</label>
+      <textarea id="input_message" rows="1" maxlength="600" placeholder="Type how you're feeling…" required></textarea>
+      <button type="submit" id="send_button" aria-label="Send message">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 20.5 4l-4.6 16.2-4.1-6.1-6.3-2.6Z" /><path d="m11.8 14.1 4.1-6.2" /></svg>
+      </button>
+    </form>
+    <p class="model-status" id="model_status" aria-live="polite"></p>
+    <p class="fineprint">EmoCareBot is not a therapist and can't respond to emergencies. Your words stay on this device.</p>
+  </main>
+
+  <dialog id="help" aria-labelledby="help_title">
+    <form method="dialog">
+      <h2 id="help_title">Talk to a person right now</h2>
+      <p>If you might hurt yourself or you're in danger, please contact a crisis line or local emergency services. It's free and confidential.</p>
+      <ul class="lines">
+        <li><span>India</span><a href="tel:14416">Tele-MANAS · 14416</a></li>
+        <li><span>United States</span><a href="tel:988">988 Suicide &amp; Crisis Lifeline</a></li>
+        <li><span>UK &amp; Ireland</span><a href="tel:116123">Samaritans · 116 123</a></li>
+        <li><span>Anywhere else</span><a href="https://findahelpline.com" target="_blank" rel="noopener">findahelpline.com</a></li>
+      </ul>
+      <button value="close" class="primary">Close</button>
+    </form>
+  </dialog>
+
+  <noscript><p class="noscript">EmoCareBot needs JavaScript to run.</p></noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
